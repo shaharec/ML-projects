@@ -7,4 +7,5 @@ Projects:
    
 2. MNIST challenge -https://www.kaggle.com/c/mnist-tutorial-machine-learning-challenge
 
-3. Hanfwrite recognizion - recognizing henrew letters.
+3. Hanfwrite recognizion - recognizing hebrew letters.
+
