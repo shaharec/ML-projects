@@ -7,7 +7,7 @@ Projects:
    
 2. MNIST challenge -https://www.kaggle.com/c/mnist-tutorial-machine-learning-challenge
 
-3. Handwrite recognizion - recognizing hebrew letters.
+3. Handwrite recognizion - recognizing hebrew letters using transfer learning and MNIST model.
 
 4. Bulldozer predicting price with regression:
  https://www.kaggle.com/c/bluebook-for-bulldozers
