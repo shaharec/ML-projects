@@ -12,3 +12,4 @@ Projects:
 4. Bulldozer predicting price with regression:
  https://www.kaggle.com/c/bluebook-for-bulldozers
 
+5. Dog Breed Identification - https://www.kaggle.com/c/dog-breed-identification
