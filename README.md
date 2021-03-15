@@ -13,3 +13,5 @@ Projects:
  https://www.kaggle.com/c/bluebook-for-bulldozers
 
 5. Dog Breed Identification - https://www.kaggle.com/c/dog-breed-identification
+
+6. Bank check reader  - reading information from a israeli bank check while using the models from 2,3 - still in progress
